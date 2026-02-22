@@ -23,11 +23,18 @@ pomucky (id, nazev, typ, stav)
 studenti (id, jmeno, prijmeni, trida)
 vypujcky (id, pomucka_id, student_id, datum_vypujcky, datum_vraceni)
 
+## Instalace
+
+1. Nainstalujte Python 3 z https://www.python.org/downloads/
+2. Při instalaci zaškrtněte možnost "Add Python to PATH"
+3. Stáhněte nebo naklonujte projekt z GitHubu
+4. Rozbalte projekt do složky v počítači
+5. Otevřete terminál ve složce projektu
+
 ## Spuštění aplikace
 
-1. Nainstalujte Python 3
-2. Otevřete terminál ve složce projektu
-3. Spusťte příkaz:
+1. Otevřete terminál ve složce projektu
+2. Spusťte příkaz:
    python main.py
 
 ## Git
