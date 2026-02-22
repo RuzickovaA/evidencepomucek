@@ -1,21 +1,21 @@
 # Evidence školních pomůcek
 
 ## Popis aplikace
-Desktopová aplikace vytvořená v Pythonu pro evidenci školních pomůcek, studentů a jejich výpůjček.
+Aplikace pro evidenci školních pomůcek, studentů a jejich výpůjček.
 
 ## Funkce aplikace
-- Evidence pomůcek (přidání, úprava, smazání, zobrazení)
-- Evidence studentů (přidání, úprava, smazání, zobrazení)
-- Vytváření výpůjček
-- Vrácení pomůcky
-- Kontrola dostupnosti pomůcky
-- Přehled aktuálně vypůjčených položek
+: Evidence pomůcek (přidání, úprava, smazání, zobrazení)
+: Evidence studentů (přidání, úprava, smazání, zobrazení)
+: Vytváření výpůjček
+: Vrácení pomůcky
+: Kontrola dostupnosti pomůcky
+: Přehled aktuálně vypůjčených položek
 
 ## Použité technologie
-- Python 3
-- SQLite
-- Tkinter
-- ttk.Treeview
+: Python 3
+: SQLite
+: Tkinter
+: ttk.Treeview
 
 ## Databázová struktura
 
@@ -36,5 +36,5 @@ git init
 git add .
 git commit -m "Projekt Evidence pomucek"
 git branch -M main
-git remote add origin URL_REPOZITARE
+git remote add origin https://github.com/RuzickovaA/evidencepomucek.git
 git push -u origin main
