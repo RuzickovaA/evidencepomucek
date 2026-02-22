@@ -33,8 +33,13 @@ vypujcky (id, pomucka_id, student_id, datum_vypujcky, datum_vraceni)
 ## Git
 
 git init
+
 git add .
+
 git commit -m "Projekt Evidence pomucek"
+
 git branch -M main
+
 git remote add origin https://github.com/RuzickovaA/evidencepomucek.git
+
 git push -u origin main
