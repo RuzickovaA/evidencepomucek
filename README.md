@@ -33,8 +33,9 @@ vypujcky (id, pomucka_id, student_id, datum_vypujcky, datum_vraceni)
 
 ## Spuštění aplikace
 
-1. Otevřete terminál ve složce projektu
-2. Spusťte příkaz:
+1. Stáhněte jako ZIP a extraktujte do složky
+2. Otevřete terminál ve složce projektu
+3. Spusťte příkaz:
    python main.py
 
 ## Git
